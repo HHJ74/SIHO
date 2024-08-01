@@ -16,8 +16,8 @@ export const menu_info =[
   // },{},{},{},{},{}
 ]
 
-export const sign_info =[
-  // {
-  //   title:'', pic:, ingre:''
-  //   },{},{},{}
-]
+// export const sign_info =[
+//   // {
+//   //   title:'', pic:, ingre:''
+//   //   },{},{},{}
+// ]
