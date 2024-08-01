@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --ff-kr: "Noto Sans KR", sans-serif;
+  --ff-en: "IBM Fles Mono", sans-serif;
+}
